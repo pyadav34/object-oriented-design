@@ -1,3 +1,3 @@
 # object-oriented-design
 
-a) Jigshaw puzzle
+a) Jigshaw Puzzle
